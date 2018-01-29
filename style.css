@@ -1,3 +1,18 @@
+
+body {
+    background-color: #EBDFF8;
+    font-family: 'OfficeCodePro-Medium';
+    font-size: 25px;
+}
+
 header {
     font-weight: bold;
+}
+
+.bold{
+    font-family: 'OfficeCodePro-Bold'
+}
+
+.medium {
+    font-family: 'OfficeCodePro-Medium'
 }
