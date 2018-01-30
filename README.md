@@ -1,2 +1,3 @@
 # portfolio
-Portfolio personnal website using Vue.js
+Portfolio personnal website using Bulma
+
