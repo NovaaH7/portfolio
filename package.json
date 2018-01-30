@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio personnal website using Vue.js",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.6.2",
+    "bulma-start": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NovaaH7/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NovaaH7/portfolio/issues"
+  },
+  "homepage": "https://github.com/NovaaH7/portfolio#readme"
+}
