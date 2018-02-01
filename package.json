@@ -4,8 +4,7 @@
   "description": "Portfolio personnal website using Vue.js",
   "main": "index.js",
   "dependencies": {
-    "bulma": "^0.6.2",
-    "bulma-start": "0.0.2"
+    "bulma": "^0.6.2"
   },
   "devDependencies": {},
   "scripts": {
