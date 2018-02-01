@@ -8,3 +8,13 @@
     font-family: 'OfficeCodePro-Medium';
     src:url('OfficeCodePro-Medium.woff') format('woff');
 }
+
+@font-face {
+    font-family: 'CircularStd-Black';
+    src:url('./fonts/CircularStd-Black.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'CircularStd-Bold';
+    src:url('./fonts/CircularStd-Bold.otf') format('opentype');
+}

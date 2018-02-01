@@ -1,17 +1,24 @@
 @import 'node_modules/bulma/css/bulma.css';
 
 body {
-    background-color: #EBDFF8;
-    font-family: 'OfficeCodePro-Medium';
-    font-size: 25px;
+    background-color: #FEE2FC;
+    font-family: 'CircularStd-Bold';
+    font-size: 20px;
+    color: #3a3a3a;
+
 }
 
 header {
     font-weight: bold;
+    font-size: 20px;
+}
+
+div {
+    padding-top: 1.5em;
 }
 
 ul {
-    padding-top: 0.5em;
+    padding-top: 1.5em;
 }
 li {
     text-align: center;
@@ -23,21 +30,23 @@ footer {
 }
 
 a {
-    color: #4a4a4a;
+    color: inherit;
 } 
 a:hover {
-    color: #232323;
-    -webkit-transition: color 2s ease-out;
-    -moz-transition: color 2s ease-out;
-    -o-transition: color 2s ease-out;
-    transition: color 2s ease-out;
+    color: #1a1a1a;
+    -webkit-transition: color 0.5s ease-out;
+    -moz-transition: color 0.5s ease-out;
+    -o-transition: color 0.5s ease-out;
+    transition: color 0.5s ease-out;
 }
 
 
 .bold{
-    font-family: 'OfficeCodePro-Bold'
+    font-family: 'CircularStd-Black'
 }
 
-.medium {
-    font-family: 'OfficeCodePro-Medium'
+.description {
+    text-align: center;
+    font-size: 35px;
+    padding-top: 3em;
 }
