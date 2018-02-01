@@ -30,14 +30,23 @@ footer {
 }
 
 a {
+    display: inline-block;
     color: inherit;
-} 
-a:hover {
-    color: #1a1a1a;
-    -webkit-transition: color 0.5s ease-out;
-    -moz-transition: color 0.5s ease-out;
-    -o-transition: color 0.5s ease-out;
-    transition: color 0.5s ease-out;
+    text-decoration: none;
+}
+
+a::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 3px;
+    background: #3a3a3a;
+    transition: width .3s;
+}
+
+a:hover::after {
+    width: 100%;
+    transition: width .3s;
 }
 
 
