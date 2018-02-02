@@ -1,0 +1,69 @@
+@import '../../node_modules/bulma/css/bulma.css';
+
+
+/* ------------------------------------- GENERICS --------------------------------- */
+body {
+    background-color: #FEE2FC;
+    font-family: 'CircularStd-Bold';
+    font-size: 20px;
+    color: #3a3a3a;
+}
+
+header {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+div {
+    padding-top: 1.5em;
+}
+
+ul {
+    padding-top: 1.5em;
+}
+li {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}
+
+a {
+    display: inline-block;
+    color: inherit;
+    text-decoration: none;
+}
+
+a::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 3px;
+    background: #3a3a3a;
+    transition: width .3s;
+}
+
+a:hover::after {
+    width: 100%;
+    transition: width .3s;
+}
+
+
+/* ------------------------------------- SPECIFICS --------------------------------- */
+
+
+.bold{
+    font-family: 'CircularStd-Black'
+}
+
+.description {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 3em;
+}
+
+.boxx {
+    border: 1px solid #3a3a3a;
+}
