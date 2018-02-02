@@ -59,3 +59,7 @@ a:hover::after {
     font-size: 35px;
     padding-top: 2.5em;
 }
+
+.boxx {
+    border: 1px solid #3a3a3a;
+}
