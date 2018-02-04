@@ -2,6 +2,12 @@
 
 
 /* ------------------------------------- GENERICS --------------------------------- */
+
+header {
+    font-weight: bold;
+    font-size: 20px;
+}
+
 body {
     background-color: #FEE2FC;
     font-family: 'CircularStd-Bold';
@@ -9,9 +15,11 @@ body {
     color: #3a3a3a;
 }
 
-header {
-    font-weight: bold;
-    font-size: 20px;
+.footer {
+    background-color: #FEE2FC;
+    font-family: 'CircularStd-Bold';
+    color: #3a3a3a;
+    padding: 4.5rem 1.5rem 1.5rem;
 }
 
 
