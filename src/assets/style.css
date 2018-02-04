@@ -99,11 +99,30 @@ nav > ul > li > a:hover::after {
     animation-delay: 0.5s;
 }
 
-
 /* ------------------------------------- SPECIFICS --------------------------------- */
+.img {
+    position: relative;
+    display: inline-block;
+  }
 
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    transition: all .5s;
+    overflow: hidden;
+    height: 0;
+    background: #3a3a3a;
+}
 
-.bold{
+.img:hover .overlay,
+.overlay:hover {
+    height: 100%;
+    background: #3a3a3a;
+}
+
+.bold {
     font-family: 'CircularStd-Black'
 }
 
@@ -120,6 +139,13 @@ nav > ul > li > a:hover::after {
 .image-container {
     margin-top: 0.75rem ;
     text-align: right;
+}
+
+.image-link-text {
+    color: #f8f8f8;
+    text-align: center;
+    padding-top: 50%; 
+    font-size: 50px;
 }
 
 /* ------------------------------------- KEYFRAMES --------------------------------- */
