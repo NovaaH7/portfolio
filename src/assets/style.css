@@ -136,7 +136,7 @@ nav > ul > li > a:hover::after {
     border: 1px solid #3a3a3a;
 }
 
-.image-container {
+.element-left {
     margin-top: 0.75rem ;
     text-align: right;
 }
