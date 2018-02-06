@@ -8,3 +8,8 @@
     font-family: 'CircularStd-Bold';
     src:url('./fonts/CircularStd-Bold.otf') format('opentype');
 }
+
+@font-face {
+    font-family: 'CircularStd-Medium';
+    src:url('./fonts/CircularStd-Medium.otf') format('opentype');
+}

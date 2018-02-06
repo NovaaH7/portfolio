@@ -8,8 +8,11 @@ header {
     font-size: 20px;
 }
 
-body {
+html {
     background-color: #FEE2FC;
+}
+
+body {
     font-family: 'CircularStd-Bold';
     font-size: 20px;
     color: #3a3a3a;
@@ -20,6 +23,11 @@ body {
     font-family: 'CircularStd-Bold';
     color: #3a3a3a;
     padding: 4.5rem 1.5rem 1.5rem;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center
 }
 
 nav > ul {
@@ -100,10 +108,19 @@ nav > ul > li > a:hover::after {
 }
 
 /* ------------------------------------- SPECIFICS --------------------------------- */
+/* ----- Images & hover ----- */
+
 .img {
     position: relative;
     display: inline-block;
   }
+
+.image-link-text {
+    color: #f8f8f8;
+    text-align: center;
+    padding-top: 50%; 
+    font-size: 50px;
+}
 
 .overlay {
     position: absolute;
@@ -122,6 +139,13 @@ nav > ul > li > a:hover::after {
     background: #3a3a3a;
 }
 
+/* ---------------------- */
+/* ----- Text Decoration ----- */
+
+.centered-text {
+    text-align: center;
+}
+
 .bold {
     font-family: 'CircularStd-Black'
 }
@@ -131,6 +155,23 @@ nav > ul > li > a:hover::after {
     font-size: 40px;
     padding-top: 6em;
 }
+
+.about {
+    font-size: 35px;
+    padding-top: 3.5em;
+}
+
+.about-title {
+    font-size: 25px;
+}
+
+.about-content {
+    font-size: 20px;
+    font-family: 'CircularStd-Medium'
+}
+
+/* ---------------------- */
+/* ----- Layout ----- */
 
 .boxx {
     border: 1px solid #3a3a3a;
@@ -146,12 +187,8 @@ nav > ul > li > a:hover::after {
     text-align: left;
 }
 
-.image-link-text {
-    color: #f8f8f8;
-    text-align: center;
-    padding-top: 50%; 
-    font-size: 50px;
-}
+/* ---------------------- */
+
 
 /* ------------------------------------- KEYFRAMES --------------------------------- */
 
