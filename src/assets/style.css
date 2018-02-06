@@ -18,16 +18,10 @@ body {
     color: #3a3a3a;
 }
 
-.footer {
-    background-color: #FEE2FC;
-    font-family: 'CircularStd-Bold';
-    color: #3a3a3a;
+footer {
+    font-size: 12px;
     padding: 4.5rem 1.5rem 1.5rem;
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    text-align: center
+    text-align: center;
 }
 
 nav > ul {
@@ -59,11 +53,6 @@ nav > ul > li:first-child {
 }
 nav > ul > li:last-child {
     animation-delay: 2.5s;
-}
-
-footer {
-    text-align: center;
-    font-size: 12px;
 }
 
 nav > ul > li > a {
@@ -168,6 +157,16 @@ nav > ul > li > a:hover::after {
 .about-content {
     font-size: 20px;
     font-family: 'CircularStd-Medium'
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 2px solid #3a3a3a;
+    transition: color 0.3s ease-in;
+}
+.link:hover {
+    color: #161616;
 }
 
 /* ---------------------- */
