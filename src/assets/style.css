@@ -108,7 +108,7 @@ nav > ul > li > a:hover::after {
     color: #f8f8f8;
     text-align: center;
     padding-top: 50%; 
-    font-size: 50px;
+    font-size: 45px;
 }
 
 .overlay {
