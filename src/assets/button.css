@@ -1,0 +1,208 @@
+/* ------------------------------------- Button effect --------------------------------- */
+
+
+.button {
+	min-width: 280px;
+    max-width: 280px;
+    min-height: 80px;
+	max-height: 80px;
+	margin: 1.5em;
+	padding: 1em 2em;
+	border: none;
+	color: inherit;
+	vertical-align: middle;
+	position: relative;
+	z-index: 1;
+	-webkit-backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 25px;
+    line-height: 30px;
+    font-family: 'CircularStd-Bold';
+}
+.button:focus {
+	outline: none;
+}
+.button > span {
+	vertical-align: middle;
+}
+
+
+.button--bottom {
+	padding: 0 2em;
+	background: #363636;
+	color: #fff;
+	overflow: hidden;
+	-webkit-transition: background-color 0.3s;
+	transition: background-color 0.3s;
+}
+.button--bottom > span {
+	display: inline-block;
+	padding: 1em 0;
+	opacity: 0;
+	color: #fff;
+	-webkit-transform: translate3d(0, -10px, 0);
+	transform: translate3d(0, -10px, 0);
+	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+	transition: transform 0.3s, opacity 0.3s;
+	-webkit-transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+	transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+}
+.button--bottom::before {
+    content: attr(data-text);
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	padding: 1em 0;
+	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+	transition: transform 0.3s, opacity 0.3s;
+	-webkit-transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+	transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+}
+.button--bottom:hover {
+	background-color: #161616;
+}
+.button--bottom:hover::before {
+	opacity: 0;
+	-webkit-transform: translate3d(0, 100%, 0);
+	transform: translate3d(0, 100%, 0);
+}
+.button--bottom:hover > span {
+	opacity: 1;
+}
+.button--index:hover > span:nth-child(1) {
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transition-delay: 0.045s;
+	transition-delay: 0.045s;
+}
+.button--index:hover > span:nth-child(2) {
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transition-delay: 0.09s;
+	transition-delay: 0.09s;
+}
+.button--index:hover > span:nth-child(3) {
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transition-delay: 0.135s;
+	transition-delay: 0.135s;
+}
+.button--index:hover > span:nth-child(4) {
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transition-delay: 0.18s;
+	transition-delay: 0.18s;
+}
+.button--index:hover > span:nth-child(5) {
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transition-delay: 0.225s;
+	transition-delay: 0.225s;
+}
+.button--index:hover > span:nth-child(6) {
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transition-delay: 0.27s;
+	transition-delay: 0.27s;
+}
+.button--index:hover > span:nth-child(7) {
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transition-delay: 0.315s;
+	transition-delay: 0.315s;
+}
+.button--index:hover > span:nth-child(8) {
+    -webkit-transform: translate3d(30%, 0, 0);
+	transform: translate3d(30%, 0, 0);
+	-webkit-transition-delay: 0.36s;
+	transition-delay: 0.36s;
+}
+.button--index:hover > span:nth-child(9) {
+    -webkit-transform: translate3d(48%, 0, 0);
+	transform: translate3d(48%, 0, 0);
+	-webkit-transition-delay: 0.405s;
+	transition-delay: 0.405s;
+}
+.button--index:hover > span:nth-child(10) {
+    -webkit-transform: translate3d(150%, 0, 0);
+	transform: translate3d(150%, 0, 0);
+	-webkit-transition-delay: 0.45s;
+	transition-delay: 0.45s;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+.button--detail:hover > span:nth-child(1) {
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transition-delay: 0.045s;
+	transition-delay: 0.045s;
+}
+.button--detail:hover > span:nth-child(2) {
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transition-delay: 0.09s;
+	transition-delay: 0.09s;
+}
+.button--detail:hover > span:nth-child(3) {
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transition-delay: 0.135s;
+	transition-delay: 0.135s;
+}
+.button--detail:hover > span:nth-child(4) {
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transition-delay: 0.18s;
+	transition-delay: 0.18s;
+}
+.button--detail:hover > span:nth-child(5) {
+    -webkit-transform: translate3d(30%, 0, 0);
+	transform: translate3d(30%, 0, 0);
+	-webkit-transition-delay: 0.225s;
+	transition-delay: 0.225s;
+}
+.button--detail:hover > span:nth-child(6) {
+    -webkit-transform: translate3d(48%, 0, 0);
+	transform: translate3d(48%, 0, 0);
+	-webkit-transition-delay: 0.27s;
+	transition-delay: 0.27s;
+}
+.button--detail:hover > span:nth-child(7) {
+    -webkit-transform: translate3d(35%, 0, 0);
+	transform: translate3d(35%, 0, 0);
+	-webkit-transition-delay: 0.315s;
+	transition-delay: 0.315s;
+}
+.button--detail:hover > span:nth-child(8) {
+    -webkit-transform: translate3d(80%, 0, 0);
+	transform: translate3d(80%, 0, 0);
+	-webkit-transition-delay: 0.36s;
+	transition-delay: 0.36s;
+}
+.button--detail:hover > span:nth-child(9) {
+    -webkit-transform: translate3d(48%, 0, 0);
+	transform: translate3d(48%, 0, 0);
+	-webkit-transition-delay: 0.405s;
+	transition-delay: 0.405s;
+}
+.button--detail:hover > span:nth-child(10) {
+    -webkit-transform: translate3d(48%, 0, 0);
+	transform: translate3d(48%, 0, 0);;
+	-webkit-transition-delay: 0.45s;
+	transition-delay: 0.45s;
+}
+.button--detail:hover > span:nth-child(11) {
+    -webkit-transform: translate3d(70%, 0, 0);
+	transform: translate3d(70%, 0, 0);;
+	-webkit-transition-delay: 0.54s;
+	transition-delay: 0.54s;
+}
+.button--detail:hover > span:nth-child(12) {
+    -webkit-transform: translate3d(130%, 0, 0);
+	transform: translate3d(130%, 0, 0);;
+	-webkit-transition-delay: 0.585s;
+	transition-delay: 0.585s;
+}
