@@ -18,6 +18,10 @@ body {
     color: #3a3a3a;
 }
 
+img {
+    display: block;
+}
+
 footer {
     font-size: 12px;
     padding: 4.5rem 1.5rem 1.5rem;
@@ -94,6 +98,10 @@ nav > ul > li > a:hover::after {
     animation-fill-mode:forwards;
 
     animation-delay: 0.5s;
+}
+
+.white {
+    background: #f8f8f8;
 }
 
 /* ------------------------------------- SPECIFICS --------------------------------- */

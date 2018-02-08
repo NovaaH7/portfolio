@@ -177,8 +177,8 @@
 	transition-delay: 0.315s;
 }
 .button--detail:hover > span:nth-child(8) {
-    -webkit-transform: translate3d(80%, 0, 0);
-	transform: translate3d(80%, 0, 0);
+    -webkit-transform: translate3d(98%, 0, 0);
+	transform: translate3d(98%, 0, 0);
 	-webkit-transition-delay: 0.36s;
 	transition-delay: 0.36s;
 }
