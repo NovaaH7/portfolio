@@ -100,6 +100,16 @@ nav > ul > li > a:hover::after {
     animation-delay: 0.5s;
 }
 
+.site-content{
+    flex: 1;
+}
+
+.site{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
 .white {
     background: #f8f8f8;
 }
