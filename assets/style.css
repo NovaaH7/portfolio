@@ -18,9 +18,7 @@ body {
     color: #3a3a3a;
 }
 
-img {
-    display: block;
-}
+
 
 footer {
     font-size: 12px;
@@ -149,8 +147,7 @@ nav > ul > li > a:hover::after {
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-
+}
 
 /* ---------------------- */
 /* ----- Text Decoration ----- */
@@ -165,10 +162,11 @@ nav > ul > li > a:hover::after {
 
 .description {
     text-align: center;
-    font-size: 40px;
+    font-size: 45px;
 }
+
 .padding-top {
-    padding-top: 6em;
+    padding-top: 4.5em;
 }
 
 .about {
@@ -180,7 +178,7 @@ nav > ul > li > a:hover::after {
     font-size: 25px;
 }
 
-.about-content {
+.basic-content {
     font-size: 20px;
     font-family: 'CircularStd-Medium'
 }
