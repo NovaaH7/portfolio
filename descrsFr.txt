@@ -33,8 +33,13 @@ Pour effecteur les visuels, le logiciel Sketch a été utilisé.
 ---
 
 Swapp is a mobile app project, carried out within the context of a 'serious game' held by Alteca.
+The goal of this application is to replace the paper version of the Business Cards by a digital one : by simply touching two smartphones, all the contact informations of the owners will be swapped.
+No need to carry paper business cards anymore ! In addition, this app will allow its users to automatically send friends requests on networks such as Facebook, LinkedIn etc. in the same time.
 
+I was charged to design the whole navigation of the app and its structure regarding user stories our team defined. I also worked out the whole branding, design and name of the app.
+The main goald of this app was to stay as simple and clean as possible, focusing on its primary goal without unnecessary functionnalities.
 
+Sketch was used to create the screens designs. 
 
 
 ################################################################################
@@ -42,11 +47,18 @@ Swapp is a mobile app project, carried out within the context of a 'serious game
 Neareo
 
 Neareo est ma première réelle expérience professionnelle en UI/UX design. 
-J'ai pu travailelr sur ce projet lors d'un stage de trois mois dans la startup belge Neareo, en tant qu'UI/UX designer.
-Un énorme travail de refonte grap^hique a été mené sur cetet application à mon arrivée, ainsi qu'un étude sur la cinématique de l'application.
+J'ai pu travailler sur ce projet lors d'un stage de trois mois dans la startup belge Neareo, en tant qu'UI/UX designer.
+Un énorme travail de refonte grap^hique a été mené sur cette application à mon arrivée, ainsi qu'un étude sur la cinématique de l'application.
 Des modifications de fond on été apportées suite à des travaux sur des user stories.
 
 ---
+
+Working on Neareo app was my first profesionnal experience in UI/UX design. 
+I had the opportunity to complete a 3 months internship at Neareo - a Belgian startup - in Brussels.
+Working on their mobile and desktop social network application, i had to make over the design, navigation, and whole screen structure for some pages.
+A lot of structural changes were made, based on more accurate user stories.
+
+I also worked on the branding of the startup, and on promotionnal flyers.  
 
 ################################################################################
 
@@ -55,6 +67,8 @@ Pics/Sketchs
 Le dessin et la photogrpahie font partie de mes grandes passions, avec la pêche, la cinématogrpahie et le sport.
 
 ---
+
+Drawing and Photography are two of my favorites hobbies, alongside fishing, cinematography and sports.
 
 ################################################################################
 
@@ -65,5 +79,11 @@ J'ai eu la chance de pouvoir participer à la création de la plaquette officiel
 
 ---
 
+During my first year of engineering school, i was a member of the school DTP association. 
+It was a really thrilling experience, which allowed me to acquire knowledge about publication, DTP related softwares such as InDesign and Photoshop, but above all learn about all the printing peculiarities for instance color models, resolutions etc.
+I had therefore the opportunity to be a member of the team creating the official 2015 students school presentation leaflet (called 'Alpha leaflet'), distributed to all students willing to join our school in 2016.
+I also won the  '2015 Alpha contest', a yearly design competition. Competitors had to create a design for the 2015 alpha leaflet cover. The winner's creation was printed as the cover of the leaflet.
+
+In addition, during my term in this association, i had to create several posters for student events and logos for students associations.
 
 
