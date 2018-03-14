@@ -1,0 +1,69 @@
+Deezer 
+
+J'ai travaillé sur le projet application borne d'écoute Deezer au sein de la société alteca. Il s'agit de mon expérience la plus récente en termes d'UI/UX Design
+L'application développée par Alteca est utilisée dans des tablettes disposées sur des bornes dans les magasins FNAC.
+Cette application permet aux clients de la FNAc de scanner des CDs présents dans les rayons du magasin, pour en écouter des extraits sur les tablettes directement.
+Il est également possible d'écouter des extraits de musiques mis en avant par Deezer et la FNAC, ou de rechercher des musiques sur l'application.
+
+Mon rôle sur ce projet a été de fournir des visuels facilement implémentables par l'équipe de développement, en me basant sur des wireframes mis à ma disposition par l'équipe chargée du projet chez Deezer France.
+Les applications Sketch et Zepplin ont été utilisées.
+
+---
+
+These screens were designed for the Deezer/FNAC listing post application, a mobile app made by Alteca. This is my latest UI/UX design experience.
+This app is used today in tablets working as listening posts in all FNAC stores in France : it allows customers to scan the barcode of any CD in the store, and instantly be able to listen to extracts of all its songs.
+People can also browse a selection of albums, or search for music directly through the application, in the Deezer database.
+
+In this project, my role was of a pure UI/UX designer; I had to design clean, simple and easily implementable screens from wireframes guides delivered by the Deezer team.
+Sketch was used in order to design the screens, and Zeplin to share them with the developper team.
+
+
+################################################################################
+
+Swapp
+
+Swapp est un project d'application mobile mené dans le cadre d'un 'serious game' organisé au sein de la société Alteca. 
+Le but de cette application est de permettre d'échanegr facilement des informations entre deux personnes (comme une carte de visite), via un échange d'informations entre deux smartphones : 
+plus besoin d'échanger des cartes de visites papier !
+
+J'ai été amené à penser toute la navigation de l'application et son design, en prenant en compte des user stories. 
+Le principe de cette application étant de rester la simple et sombre possible.  
+Pour effecteur les visuels, le logiciel Sketch a été utilisé.
+
+---
+
+Swapp is a mobile app project, carried out within the context of a 'serious game' held by Alteca.
+
+
+
+
+################################################################################
+
+Neareo
+
+Neareo est ma première réelle expérience professionnelle en UI/UX design. 
+J'ai pu travailelr sur ce projet lors d'un stage de trois mois dans la startup belge Neareo, en tant qu'UI/UX designer.
+Un énorme travail de refonte grap^hique a été mené sur cetet application à mon arrivée, ainsi qu'un étude sur la cinématique de l'application.
+Des modifications de fond on été apportées suite à des travaux sur des user stories.
+
+---
+
+################################################################################
+
+Pics/Sketchs
+
+Le dessin et la photogrpahie font partie de mes grandes passions, avec la pêche, la cinématogrpahie et le sport.
+
+---
+
+################################################################################
+
+PAO
+
+J'ai été membre de l'association de PAO de mon école lors de ma première année (donc de ma 3e année d'étude). Cette expérience très enrichissante m'a permis de monter en coméptence sur les domaines de la publication, la présentation, mais également dans la matrise d'outils de PAO et des notions associées (Espaces de couleurs, exigences d'impression etc.)
+J'ai eu la chance de pouvoir participer à la création de la plaquette officielle de présentation de l'école par les étudiants. J'ai également été lauréat du concours portant sur la création dela couverture de cette plaquette parmis une douzaine de participations.
+
+---
+
+
+
