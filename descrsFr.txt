@@ -20,6 +20,21 @@ Sketch was used in order to design the screens, and Zeplin to share them with th
 
 ################################################################################
 
+startup days
+
+Dans le cadre de ma formation, avec un groupe d'étudiants, nous avons organisé un évènement similaire aux STARTUPDAYS dans notre école.
+
+J'ai été chargé de définir le branding, la charte graphique, le logo de l'évènement, 
+ainsi que de designer le site de l'évènement, les multiples flyers de présentation, et les chèques représentant les prix gagnés.
+
+Les travaux relatifs à ce projet ont été réalisés dans Photoshop
+
+---
+
+
+
+################################################################################
+
 Swapp
 
 Swapp est un project d'application mobile mené dans le cadre d'un 'serious game' organisé au sein de la société Alteca. 

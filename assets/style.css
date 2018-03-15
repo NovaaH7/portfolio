@@ -180,6 +180,15 @@ nav > ul > li > a:hover::after {
     font-size: 25px;
 }
 
+.detail-title {
+    font-size: 35px;
+}
+
+.small-content {
+    font-size: 16px;
+    font-family: 'CircularStd-Medium'
+}
+
 .basic-content {
     font-size: 20px;
     font-family: 'CircularStd-Medium'
