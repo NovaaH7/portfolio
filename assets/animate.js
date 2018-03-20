@@ -32,7 +32,6 @@ $(document).ready(function() {
     var win = $(window);
     var allMods = $(".module");
 
-    console.log(allMods);
     // Already visible modules
     allMods.each(function(i, el) {
     var el = $(el);
